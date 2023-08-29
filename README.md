@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on **React, Svelte, Next.js**
 - 📫 How to reach me **balliozbasar@gmail.com**
+- [Personal Website: ballioz.dev](https://ballioz.dev/)<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+  
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/basarballioz.svg?style=social&label=Follow%20%40basarballioz)](https://twitter.com/basarballioz)<br>
 [![Linkedin Badge](https://img.shields.io/badge/basarballioz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basarballioz/)
 
