@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋🏻 I'm Başar Ballıöz</h2>
-<h2 align="center">Frontend Developer @DecathlonTürkiye</h2>
+<h2 align="center">Mid. Frontend Developer @DecathlonTürkiye</h2>
 
 - 🔭 I’m currently working on **React, Svelte, Next.js**
 - 📫 How to reach me **balliozbasar@gmail.com**
