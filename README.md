@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋🏻 Hi, I'm Başar Ballıöz</h1>
+<h2 align="center">Mid. Frontend Developer @Decathlon Türkiye</h2>
 
-<!--
-**basarballioz/basarballioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building **scalable web apps**, exploring **cybersecurity**, and growing into a **Fullstack Engineer**.  
+Currently working with modern frontend stacks and backend integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 **Tech Stack**
+#### 💻 Frontend
+- React.js, Next.js, Svelte, TypeScript, Zustand, Cypress and more...
+- UI: TailwindCSS, ShadCN, Vitamin (Decathlon) , Styled Components, Framer Motion and more
+
+#### ⚙️ Backend
+- Node.js, Express.js, MongoDB, RESTful APIs, AWS (S3, EC2, CloudFront), PM2  
+
+#### 🔐 Cybersecurity & DevOps
+- OWASP principles, secure auth flows (JWT, OAuth2)  
+- CI/CD (GitHub Actions Amplify, Azure, Netlify, etc.)
+  
+---
+
+### 📚 **Current Focus**
+- 🌍 Transitioning into **Fullstack Development**
+- 🧠 Learning **Web Application Security & Ethical Hacking**
+- ☁️ Mastering **AWS and scalable cloud architectures**
+---
+
+### 📫 **Reach Me**
+- 📧 **balliozbasar@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/basarballioz/)  
+---
