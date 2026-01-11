@@ -1,32 +1,29 @@
-<h1 align="center">👋🏻 Hi, I'm Başar Ballıöz</h1>
-<h2 align="center">Mid. Frontend Developer @Decathlon Türkiye</h2>
+<h1 align="center">Hi, I'm Başar Ballıöz👋🏻</h1>
+<h2 align="center">Mid. Frontend Developer @Decathlon Türkiye | MERN Stack | Next.js & React | E-commerce & SaaS</h2>
 
-💡 Passionate about building **scalable web apps**, exploring **cybersecurity**, and growing into a **Fullstack Engineer**.  
-Currently working with modern frontend stacks and backend integrations.
+A Mid-level Frontend Developer with hands-on experience in the MERN Stack, building **scalable, high-performance, and user-centric web applications**. Passionate about clean code, maintainable architectures, and bridging frontend with backend integrations. Exploring cybersecurity, cloud architectures, and moving towards Fullstack development.
 
 ---
 
-### 🧠 **Tech Stack**
-#### 💻 Frontend
-- React.js, Next.js, Svelte, TypeScript, Zustand, Cypress and more...
-- UI: TailwindCSS, ShadCN, Vitamin (Decathlon) , Styled Components, Framer Motion and more
+### Contact Me
+<p align="left">
+  <a href="mailto:balliozbasar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/basarballioz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/basarballioz?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+  </a>
+</p>
 
-#### ⚙️ Backend
-- Node.js, Express.js, MongoDB, RESTful APIs, AWS (S3, EC2, CloudFront), PM2  
-
-#### 🔐 Cybersecurity & DevOps
-- OWASP principles, secure auth flows (JWT, OAuth2)  
-- CI/CD (GitHub Actions Amplify, Azure, Netlify, etc.)
-  
 ---
 
-### 📚 **Current Focus**
-- 🌍 Transitioning into **Fullstack Development**
-- 🧠 Learning **Web Application Security & Ethical Hacking**
-- ☁️ Mastering **AWS and scalable cloud architectures**
----
+## Current Focus
 
-### 📫 **Reach Me**
-- 📧 **balliozbasar@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/basarballioz/)  
----
+- Transitioning into **Fullstack Development** (MERN + modern backend integrations)  
+- Learning **Web Application Security & Ethical Hacking**  
+- Mastering **AWS, scalable cloud architectures & Zero Trust Security**  
+- Contributing to **Open Source Projects**  
+
