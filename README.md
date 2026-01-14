@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Başar Ballıöz👋🏻</h1>
-<h2 align="center">Mid. Frontend Developer @Decathlon Türkiye | MERN Stack | Next.js & React | E-commerce & SaaS</h2>
-
+<h2 align="center">
+  Mid. Frontend Developer 
+  <a href="https://www.linkedin.com/company/decathlon-turkiye/" target="_blank">
+    @Decathlon Türkiye
+  </a>
+  | MERN Stack | Next.js & React | E-commerce & SaaS
+</h2>
 A Mid-level Frontend Developer with hands-on experience in the MERN Stack, building **scalable, high-performance, and user-centric web applications**. Passionate about clean code, maintainable architectures, and bridging frontend with backend integrations. Exploring cybersecurity, cloud architectures, and moving towards Fullstack development.
 
 ---
