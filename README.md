@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Başar Ballıöz👋🏻</h1>
 <h2 align="center">
   Mid. Frontend Developer 
-  <a href="https://www.linkedin.com/company/decathlon-turkiye/" target="_blank">
+  <a href="https://www.linkedin.com/in/basarballioz" target="_blank">
     @Decathlon Türkiye
   </a>
   | MERN Stack | Next.js & React | E-commerce & SaaS
