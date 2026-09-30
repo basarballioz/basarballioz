@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Başar Ballıöz👋🏻</h1>
-<h2 align="center">
-  Mid. Frontend Developer 
-  <a href="https://www.linkedin.com/in/basarballioz" target="_blank">
-    @Decathlon Türkiye
-  </a>
-  | MERN Stack | Next.js & React | E-commerce & SaaS
-</h2>
-A Mid-level Frontend Developer with hands-on experience in the MERN Stack, building **scalable, high-performance, and user-centric web applications**. Passionate about clean code, maintainable architectures, and bridging frontend with backend integrations. Exploring cybersecurity, cloud architectures, and moving towards Fullstack development.
+<h2 align="center">Software Engineer building products that scale.</h2>
 
----
+I work across the stack, designing **interfaces, architectures, APIs, and cloud systems** that turn ideas into production-ready products.
+
+Currently at **Decathlon Türkiye**, building e-commerce & SaaS experiences.
+Independently building **RPMVault, RPMBase** and exploring the deeper layers of **cloud, backend engineering, security, and AI**.
+
+**Product Engineering · Fullstack · Cloud · Security**
 
 ### Contact Me
 <p align="left">
@@ -18,17 +16,12 @@ A Mid-level Frontend Developer with hands-on experience in the MERN Stack, build
   <a href="https://www.linkedin.com/in/basarballioz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/basarballioz?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+  <br>
+  <a href="https://rpm-vault.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-RPMVault-blue" alt="RPMVault" />
   </a>
 </p>
 
----
-
 ## Current Focus
-
-- Transitioning into **Fullstack Development** (MERN + modern backend integrations)  
 - Learning **Web Application Security & Ethical Hacking**  
 - Mastering **AWS, scalable cloud architectures & Zero Trust Security**  
-- Contributing to **Open Source Projects**  
-
